@@ -1,0 +1,72 @@
+@font-face {
+    font-family: 'Netflix Sans';
+    src: url('NetflixSans-Light.eot');
+    src: url('NetflixSans-Light.eot?#iefix') format('embedded-opentype'),
+        url('NetflixSans-Light.woff') format('woff'),
+        url('NetflixSans-Light.ttf') format('truetype'),
+        url('NetflixSans-Light.svg#NetflixSans-Light') format('svg');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Netflix Sans';
+    src: url('NetflixSans-Bold.eot');
+    src: url('NetflixSans-Bold.eot?#iefix') format('embedded-opentype'),
+        url('NetflixSans-Bold.woff') format('woff'),
+        url('NetflixSans-Bold.ttf') format('truetype'),
+        url('NetflixSans-Bold.svg#NetflixSans-Bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Netflix Sans';
+    src: url('NetflixSans-Black.eot');
+    src: url('NetflixSans-Black.eot?#iefix') format('embedded-opentype'),
+        url('NetflixSans-Black.woff') format('woff'),
+        url('NetflixSans-Black.ttf') format('truetype'),
+        url('NetflixSans-Black.svg#NetflixSans-Black') format('svg');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Netflix Sans';
+    src: url('NetflixSans-Thin.eot');
+    src: url('NetflixSans-Thin.eot?#iefix') format('embedded-opentype'),
+        url('NetflixSans-Thin.woff') format('woff'),
+        url('NetflixSans-Thin.ttf') format('truetype'),
+        url('NetflixSans-Thin.svg#NetflixSans-Thin') format('svg');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Netflix Sans';
+    src: url('NetflixSans-Regular.eot');
+    src: url('NetflixSans-Regular.eot?#iefix') format('embedded-opentype'),
+        url('NetflixSans-Regular.woff') format('woff'),
+        url('NetflixSans-Regular.ttf') format('truetype'),
+        url('NetflixSans-Regular.svg#NetflixSans-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Netflix Sans';
+    src: url('NetflixSans-Medium.eot');
+    src: url('NetflixSans-Medium.eot?#iefix') format('embedded-opentype'),
+        url('NetflixSans-Medium.woff') format('woff'),
+        url('NetflixSans-Medium.ttf') format('truetype'),
+        url('NetflixSans-Medium.svg#NetflixSans-Medium') format('svg');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
